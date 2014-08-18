@@ -5,11 +5,15 @@ WV Election Reporting
 
 ### Demographic Information
 
+These county-level details come from [CensusReporter](http://censusreporter.org/), a site that displays information from the Census Bureau. The county-level figures are from the 2012 American Community Survey; students can also search for place (city and town) names to get detailed information on specific places.
+
 * [Monongalia County](http://censusreporter.org/profiles/05000US54061-monongalia-county-wv/)
 * [Preston County](http://censusreporter.org/profiles/05000US54077-preston-county-wv/)
 * [Harrison County](http://censusreporter.org/profiles/05000US54033-harrison-county-wv/)
 
 ### Election Results
+
+Election results are from the [West Virginia Secretary of State's office](http://apps.sos.wv.gov/elections/results/Default.aspx?year=2014&eid=14) and consist of candidate-level totals. For elections before 2012, county-level totals are available. Beginning in 2012, precinct-level totals are available, including the 2014 primary election. The county totals files listed below are for all counties in West Virginia.
 
 * County Totals
 	* [2008 primary](https://www.strongspace.com/shared/gis30tnmto)
@@ -35,6 +39,8 @@ WV Election Reporting
 	* [2014 primary](https://www.strongspace.com/shared/npte80wbw2)
 
 ### Voter Registration Data, July 2014
+
+Also provided by the SOS office, there are county-specific files listing all registered voters (active and inactive). The data includes party affiliation, registration date and which political districts the voter lives in. Previous county totals by party are also available [here](http://www.sos.wv.gov/elections/history/Pages/Voter_Registration_History.aspx).
 
 * [Monongalia County](https://www.strongspace.com/shared/tgwj67fw10)
 * [Preston County](https://www.strongspace.com/shared/2c52hqp77g)
