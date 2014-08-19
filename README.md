@@ -10,6 +10,8 @@ These county-level details come from [CensusReporter](http://censusreporter.org/
 * [Monongalia County](http://censusreporter.org/profiles/05000US54061-monongalia-county-wv/)
 * [Preston County](http://censusreporter.org/profiles/05000US54077-preston-county-wv/)
 * [Harrison County](http://censusreporter.org/profiles/05000US54033-harrison-county-wv/)
+* [Marshall County](http://censusreporter.org/profiles/05000US54051-marshall-county-wv/)
+* [Kanawha County](http://censusreporter.org/profiles/05000US54039-kanawha-county-wv/)
 
 ### Election Results
 
