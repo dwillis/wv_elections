@@ -49,6 +49,11 @@ For county-level results, you should still see some of those things, but not in 
 	* [2012 general](https://www.strongspace.com/shared/r4u7z5m0nc)
 	* [2014 primary](https://www.strongspace.com/shared/gfnkbf4mot)
 
+* Kanawha County Precinct Totals
+	* [2012 primary](https://www.strongspace.com/shared/imfilq2i7a)
+	* [2012 general](https://www.strongspace.com/shared/reoelj8e0l)
+	* [2014 primary](https://www.strongspace.com/shared/dhttqapbax)
+
 ### Voter Registration Data, July 2014
 
 Also provided by the SOS office, there are county-specific files listing all registered voters (active and inactive). The data includes party affiliation, registration date and which political districts the voter lives in. Previous county totals by party are also available [here](http://www.sos.wv.gov/elections/history/Pages/Voter_Registration_History.aspx).
