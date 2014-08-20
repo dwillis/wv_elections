@@ -10,10 +10,16 @@ These county-level details come from [CensusReporter](http://censusreporter.org/
 * [Monongalia County](http://censusreporter.org/profiles/05000US54061-monongalia-county-wv/)
 * [Preston County](http://censusreporter.org/profiles/05000US54077-preston-county-wv/)
 * [Harrison County](http://censusreporter.org/profiles/05000US54033-harrison-county-wv/)
+* [Marshall County](http://censusreporter.org/profiles/05000US54051-marshall-county-wv/)
+* [Kanawha County](http://censusreporter.org/profiles/05000US54039-kanawha-county-wv/)
 
 ### Election Results
 
 Election results are from the [West Virginia Secretary of State's office](http://apps.sos.wv.gov/elections/results/Default.aspx?year=2014&eid=14) and consist of candidate-level totals. For elections before 2012, county-level totals are available. Beginning in 2012, precinct-level totals are available, including the 2014 primary election. The county totals files listed below are for all counties in West Virginia.
+
+When looking at election results, keep these things in mind: presidential elections (2012 & 2008) are different from non-presidential (2010, 2011 & 2014) in terms of turnout and votes cast. But even so, there should be some consistency in terms of the general pattern of votes. Where precinct-level results are available, you should be able to identify where most of the votes in a county come from, and where voters are sparse. You should be able to identify heavily Democratic precincts and those that are more competitive in terms of votes. Looking at primaries, you should be able to see where each party has its base(s).
+
+For county-level results, you should still see some of those things, but not in a detailed way. For example, if a county is broadly Democratic in voting in 2012 and 2014, it probably should be in 2008 and 2010 as well. Where it isn't - that could be worthy of mention or examination. Compare candidates up and down the ballot - are some candidates stronger than others of the same party in a county?
 
 * County Totals
 	* [2008 primary](https://www.strongspace.com/shared/gis30tnmto)
@@ -38,6 +44,11 @@ Election results are from the [West Virginia Secretary of State's office](http:/
 	* [2012 general](https://www.strongspace.com/shared/f9kd048xqj)
 	* [2014 primary](https://www.strongspace.com/shared/npte80wbw2)
 
+* Marshall County Precinct Totals
+	* [2012 primary](https://www.strongspace.com/shared/9wlo3s79eh)
+	* [2012 general](https://www.strongspace.com/shared/r4u7z5m0nc)
+	* [2014 primary](https://www.strongspace.com/shared/gfnkbf4mot)
+
 ### Voter Registration Data, July 2014
 
 Also provided by the SOS office, there are county-specific files listing all registered voters (active and inactive). The data includes party affiliation, registration date and which political districts the voter lives in. Previous county totals by party are also available [here](http://www.sos.wv.gov/elections/history/Pages/Voter_Registration_History.aspx).
@@ -45,3 +56,5 @@ Also provided by the SOS office, there are county-specific files listing all reg
 * [Monongalia County](https://www.strongspace.com/shared/tgwj67fw10)
 * [Preston County](https://www.strongspace.com/shared/2c52hqp77g)
 * [Harrison County](https://www.strongspace.com/shared/pep4auovc6)
+* [Marshall County](https://www.strongspace.com/shared/i7b9lqd5y0)
+* [Kanawha County](https://www.strongspace.com/shared/9dq6xvwol8)
