@@ -63,3 +63,15 @@ Also provided by the SOS office, there are county-specific files listing all reg
 * [Harrison County](https://www.strongspace.com/shared/pep4auovc6)
 * [Marshall County](https://www.strongspace.com/shared/i7b9lqd5y0)
 * [Kanawha County](https://www.strongspace.com/shared/9dq6xvwol8)
+
+### Collecting Voter Registration Updates
+
+In West Virginia (and most states), county clerks maintain the voter registration lists for their county. The voter registration deadline for the general election is [October 14](http://www.sos.wv.gov/elections/voterinformation/VoterRegistration/Pages/Voter-Registration-deadlines.aspx), so you should plan on visiting the county clerk's office several times between now and October 15 to obtain updated voter registration statistics. You don't have to go every week, but at least twice would be good. During your visits, you should also ask about the early voting and absentee ballot processes for your county, because after October 14 you should be able to see statistics from each county on early voting and absentee ballots returned (although neither will be counted until Election Day). You can compare such updates to previous early voting and absentee totals for that county (or precinct if available).
+
+### Election Materials
+
+As part of your reporting, you'll be asking West Virginia residents to save the election materials they receive and to send them to us. In practice this mostly means direct mail pieces, but we'll take recorded robocalls, newspaper ads, anything, really. Each team will have a list of voters to contact (either in person or by phone, with email as a backup) and to establish a pattern of either the voter submitting material to us or reporters picking it up on visits.
+
+The materials can be collected in several ways: people can take pictures of it (all sides) and email them, they can use envelopes we provide to collect them and then either mail them, or have reporters pick them up on visits. If we can get audio, ask voters to save voicemail messages and you should be able to record them using your phone.
+
+In addition to people you specifically ask to provide materials, we'll put out a general call for materials to be sent via email. Ideally, we'd get a person's name and address with anything sent to us, but in some cases just location (city/county) would be good. We'll take anything people want to send us, but the more information about a particular campaign message, the better. The most useful information - what we should aim for - ties election materials to a voter in a way that we can identify him or her.
