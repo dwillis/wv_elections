@@ -77,3 +77,15 @@ I'll be emailing each county-focused team with a list of voters - please try to 
 The materials can be collected in several ways: people can take pictures of it (all sides) and email them, they can use envelopes we provide to collect them and then either mail them, or have reporters pick them up on visits. If we can get audio, ask voters to save voicemail messages and you should be able to record them using your phone.
 
 In addition to people you specifically ask to provide materials, we'll put out a general call for materials to be sent via email. Ideally, we'd get a person's name and address with anything sent to us, but in some cases just location (city/county) would be good. We'll take anything people want to send us, but the more information about a particular campaign message, the better. The most useful information - what we should aim for - ties election materials to a voter in a way that we can identify him or her.
+
+### Broadcast Advertisements
+
+Television and radio stations are required by law to maintain a [public inspection file](http://www.fcc.gov/guides/public-and-broadcasting-july-2008#PUBLICINSPECTIONFILE), that includes, among other things, a "political file" that has "a complete record of a request to purchase broadcast time that: (A) is made by or on behalf of a legally qualified candidate for public office; or (B) communicates a message relating to any political matter of national importance." These files are kept at the main studio for each station, and can be in many forms - printed paper, spreadsheets, etc.
+
+Each group should locate the broadcast stations in your county, bearing in mind that some will overlap with other counties as well. Many stations, including those in Pittsburgh, submit their political files to the FCC, which [posts them](https://stations.fcc.gov/station-profile/kdka-tv/political-files/), so you might not need to visit the offices as often, but close to the election it will be faster to get them in person.
+
+Radio stations also have political files, but they are only available at the station, so teams will need to locate and visit radio stations in your counties, with the exception of public radio stations. Don't just stick with the largest stations, but see if you can visit small ones, too.
+
+### Storing the Data
+
+For both election materials and broadcast ads, I'll be setting up an online form that you can enter information about each piece of mail or ad buy.	This likely will be via a Google Form.
