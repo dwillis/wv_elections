@@ -72,7 +72,7 @@ In West Virginia (and most states), county clerks maintain the voter registratio
 
 As part of your reporting, you'll be asking West Virginia residents to save the election materials they receive and to send them to us. In practice this mostly means direct mail pieces, but we'll take recorded robocalls, newspaper ads, anything, really. Each team will have a list of voters to contact (either in person or by phone, with email as a backup) and to establish a pattern of either the voter submitting material to us or reporters picking it up on visits.
 
-I'll be emailing each county-focused team with a list of voters - please try to get materials from at least one in each of the six categories listed in the file. The more, the merrier, of course.
+I'll be emailing each county-focused team with a list of voters - please try to get materials from at least one in each of the six categories listed in the file. The more, the merrier, of course. For the statewide team, I'd like each of you to use social media and any friends/family contacts in West Virginia to garner election materials from whatever corner of the state you can. If anyone needs more names, let me know, I've got plenty.
 
 The materials can be collected in several ways: people can take pictures of it (all sides) and email them, they can use envelopes we provide to collect them and then either mail them, or have reporters pick them up on visits. If we can get audio, ask voters to save voicemail messages and you should be able to record them using your phone.
 
